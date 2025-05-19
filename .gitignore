@@ -1,6 +1,8 @@
 # Custom Ignore
 application-local.yml
 test
+mvnw
+mvnw.cmd
 
 HELP.md
 target/

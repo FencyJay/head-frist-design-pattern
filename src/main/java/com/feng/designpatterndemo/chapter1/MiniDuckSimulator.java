@@ -2,9 +2,10 @@ package com.feng.designpatterndemo.chapter1;
 
 import com.feng.designpatterndemo.chapter1.duck.*;
 import com.feng.designpatterndemo.chapter1.duckbehavior.FlyNoway;
-import com.feng.designpatterndemo.chapter1.duckbehavior.Squeak;
 
 /**
+ * 策略模式
+ *
  * @Author fency
  * @Date 2025/5/12 14:59
  * @Version 1.0

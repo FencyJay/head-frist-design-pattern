@@ -96,6 +96,6 @@ JDK 内置了观察者模式的实现，java.util.Observable 和 java.util.Obser
 代码示例在 chapter3 包下，下面是类关系图和调用关系
 ![](images/chapter3.png)
 ### Java I/O 对装饰器模式的应用
-Java I/O 库就是一个经典的装饰器模式的应用，所有的输入输出流都实现了同一个接口 java.io.InputStream 和 java.io.OutputStream，
+Java I/O 库就是一个经典的装饰器模式的应用，所有的输入流都实现了同一个接口 java.io.InputStream 
 ![](images/chapter3.1.png)
 - 代码示例在 chapter3/javaio 下，写了一个将字符小写处理的输入流装饰器

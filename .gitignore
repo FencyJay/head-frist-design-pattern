@@ -3,6 +3,7 @@ application-local.yml
 test
 mvnw
 mvnw.cmd
+.gitattributes
 
 HELP.md
 target/
